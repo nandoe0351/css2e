@@ -46,12 +46,12 @@ p {
 	clear: both;
 }
 
-img.figure {
- float: right;
- margin-left: 10px;
- margin-bottom: 10px;
-border: 1px solid #666;
- padding: 10px;
+img {
+        float: right;
+ 	margin-left: 10px;
+ 	margin-bottom: 10px;
+	border: 1px solid #666;
+ 	padding: 10px;
 }
 
 
