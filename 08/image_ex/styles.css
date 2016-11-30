@@ -47,17 +47,11 @@ p {
 }
 
 img.figure {
-	float: right;
-        margin-left: 10px;
-        margin-bottom: 10px;
-        border: 1px solid #666;
-        padding: 10px;
+ float: right;
+ margin-left: 10px;
+ margin-bottom: 10px;
+border: 1px solid #666;
+ padding: 10px;
 }
 
-img.figure {
-	float: right;
-        margin-left: 10px;
-        margin-bottom: 10px;
-	border: 1px solid #666;
-        padding: 10px;
-}
+
