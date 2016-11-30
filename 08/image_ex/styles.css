@@ -46,7 +46,7 @@ p {
 	clear: both;
 }
 
-img {
+img.figure {
         float: right;
  	margin-left: 10px;
  	margin-bottom: 10px;
